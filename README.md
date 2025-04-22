@@ -1,1 +1,2 @@
 # Data-Analyst-Task-2
+I have analysed the sales and create a dashboard and after analysing I have created the data story telling regarding the charts and graphs. By this I understand what is data story telling practically. May be I am not that much good in story telling but I do understand what is story telling of data. We have to analyze the dashboard and charts and create the conclusions and further steps based on the analysis .
